@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ing. Duverney Corrales Mendoza"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Duverney Corrales Mendoza"
+description              : &description "Electronic Engineer Master Research at Universidad del Valle, Colombia"
 url                      : https://DuverneyCM.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DuverneyCM/DuverneyCM.github.io "
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ing. Duverney Corrales Mendoza"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Electronic Engineer Master Research at Universidad del Valle, Colombia, expert in Advance Digital Design and Bioinformatics"
+  location         : "Cali, Colombia"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "duverney.corrales@correounivalle.edu.co"
   uri              :
   bitbucket        :
   codepen          :
