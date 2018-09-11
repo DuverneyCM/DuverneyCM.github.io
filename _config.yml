@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ing. Duverney Corrales Mendoza"
 title_separator          : "-"
 name                     : &name "Duverney Corrales Mendoza"
-description              : &description "Electronic Engineer Master Research at Universidad del Valle, Colombia"
+description              : &description "Electronics Engineer Master Research at Universidad del Valle, Colombia"
 url                      : https://DuverneyCM.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DuverneyCM/DuverneyCM.github.io "
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Ing. Duverney Corrales Mendoza"
   avatar           : "FotoDuverGithub.jpg"
-  bio              : "Electronic Engineer Master Research at Universidad del Valle, Colombia, expert in Advance Digital Design and Bioinformatics"
+  bio              : "Electronics Engineer Master Research at Universidad del Valle, Colombia, expert in Advance Digital Design and Bioinformatics"
   location         : "Cali, Colombia"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
