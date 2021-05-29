@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ing. Duverney Corrales Mendoza"
+title                    : "Duverney Corrales Mendoza"
 title_separator          : "-"
 name                     : &name "Duverney Corrales Mendoza"
-description              : &description "Electronics Engineer Master Research at Universidad del Valle, Colombia"
+description              : &description "M.Eng in Electronics, Researcher & FPGA developer of high-performance and real-time embedded solutions"
 url                      : https://DuverneyCM.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DuverneyCM/DuverneyCM.github.io "
@@ -79,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ing. Duverney Corrales Mendoza"
+  name             : "Duverney Corrales Mendoza, M.Eng"
   avatar           : "FotoDuverGithub.jpg"
-  bio              : "Electronics Engineer Master Research at Universidad del Valle, Colombia, expert in Advance Digital Design and Bioinformatics"
+  bio              : "M.Eng in Electronics, Researcher & FPGA developer of high-performance and real-time embedded solutions"
   location         : "Cali, Colombia"
-  employer         :
+  employer         : "Freelancer"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "duverney.corrales@correounivalle.edu.co"
   uri              :
@@ -91,25 +91,25 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/duverney.corrales.9"
   foursquare       :
   github           : "DuverneyCM"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/duverneycm/"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/duverney-corrales-mendoza-62b09854/"
   orcid            : "https://orcid.org/0000-0001-8732-5315"
-  pinterest        :
+  pinterest        : "https://co.pinterest.com/dcorralesmendoz/_saved/"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/DDDuverney"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCbJEgDEiBN0RjgiilM6tZow"
   wikipedia        :
 
 
