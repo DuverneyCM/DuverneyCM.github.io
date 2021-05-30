@@ -28,7 +28,7 @@ Work experience
   
 Skills
 ======
-* Embedded Systems (SoC-FPGA, microcontrollers, RS-232, RS-485, I2C, SPI, Xbee, Bluetooth, WiFi)
+* Embedded Systems (SoC-FPGA, microcontrollers, PCB 2-layer, RS-232, RS-485, I2C, SPI, Xbee, Bluetooth, WiFi)
 * BackEnd (SQL, NoSQL, CGI, C, C++, Python, Java, JS) 
 * FrontEnd (ReactJS, HTML, CSS, Rest)
 * Cloud (AWS, GitHub, Jira)
